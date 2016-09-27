@@ -15,7 +15,7 @@ namespace Crown01.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "La app del Crown.";
+            ViewBag.Message = "La app del Hack.";
 
             return View();
         }
